@@ -1,1 +1,5 @@
-I'm going to be an issue template one day!
+**Company Name**:
+**Company Address**:
+
+**Internal Point of Contact**:
+**Potential Date**
